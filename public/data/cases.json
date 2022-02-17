@@ -1,0 +1,60 @@
+{
+    "uiux":[
+        {
+            "id": 1,
+            "title":"PP Running",
+            "image":"https://www.mastercomps.com.br/uploads/cases/pprunning.jpg",
+            "text": "Site institucional para o grupo de corrida PP Running",
+            "bgcolor": "#3D3473"
+        },
+        {
+            "id": 2,
+            "title":"M.A Imobiliária",
+            "image":"https://www.mastercomps.com.br/uploads/cases/ma-imobiliaria.jpg",
+            "text": "Site e sistema de gestão da M.A Imobiliária",
+            "bgcolor": "#3D3473"
+        },
+        {
+            "id": 3,
+            "title":"MS Collection",
+            "image":"https://www.mastercomps.com.br/uploads/cases/ms-collection.jpg",
+            "text": "E-commerce Mariana Sampaio Collection",
+            "bgcolor": "#3D3473"
+        }
+
+    ],
+    "websist":[
+        {
+            "id": 1,
+            "title":"M.A Imobiliária",
+            "image":"https://www.mastercomps.com.br/uploads/cases/ma-imobiliaria.jpg",
+            "text": "Site e sistema de gestão da M.A Imobiliária",
+            "bgcolor": "#3D3473"
+        }
+    ],
+    "ecomerce":[
+        {
+            "id": 1,
+            "title":"MS Collection",
+            "image":"https://www.mastercomps.com.br/uploads/cases/ms-collection.jpg",
+            "text": "E-commerce Mariana Sampaio Collection",
+            "bgcolor": "#3D3473"
+        }
+    ],
+    "lp":[
+        {
+            "id": 1,
+            "title":"PP Running",
+            "image":"https://www.mastercomps.com.br/uploads/cases/pprunning.jpg",
+            "text": "Site institucional para o grupo de corrida PP Running",
+            "bgcolor": "#3D3473"
+        },
+        {
+            "id": 2,
+            "title":"M.A Imobiliária",
+            "image":"https://www.mastercomps.com.br/uploads/cases/ma-imobiliaria.jpg",
+            "text": "Site e sistema de gestão da M.A Imobiliária",
+            "bgcolor": "#3D3473"
+        }
+    ]
+}
